@@ -1,0 +1,3 @@
+04/06/2024	11:15:22	994947a7-79a1-4a67-aab0-4650ffc96256	Error: Not allowed by CORS
+04/06/2024	15:16:38	ea384bfe-862d-47c4-9c50-6989191d3c59	SyntaxError: Unexpected token '1', "1
+" is not valid JSON

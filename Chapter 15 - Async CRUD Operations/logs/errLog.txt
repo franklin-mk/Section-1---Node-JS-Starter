@@ -1,0 +1,2 @@
+20240605	16:42:49	27fee8aa-dd3b-43bf-a1d8-f462eeb8a55a	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20240605	16:42:51	0a02b7d3-5ad8-42e4-8a98-5c732174b94a	SyntaxError: Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
